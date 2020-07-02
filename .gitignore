@@ -1,5 +1,2 @@
-/node_modules
-#Ignoring Gitscript
-NewRepo.sh
-#Ignoring Gitscript
-NewRepo.sh
+node_modules
+
